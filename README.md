@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mdniloy74779@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Niloy74779](https://github.com/Niloy74779)
+- 👨‍💻 All of my projects are available at [https://github.com/NureAlamNiloy](https://github.com/NureAlamNiloy)
 
  <br>  <br>
 

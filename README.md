@@ -41,9 +41,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Niloy74779&show_icons=true&locale=en&layout=compact" alt="Niloy74779" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NureAlamNiloy&show_icons=true&locale=en&layout=compact" alt="NureAlamNiloy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Niloy74779&show_icons=true&locale=en" alt="Niloy74779" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NureAlamNiloy&show_icons=true&locale=en" alt="NureAlamNiloy" /></p>
 
 **CSE Fundamentals with Phitron** – Programming Hero (2022-2023)  
 Course certificate: [Certificate](https://shorturl.at/HDhmF)
